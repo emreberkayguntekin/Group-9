@@ -7,8 +7,8 @@ for the **INF605 Image Processing and Computer Vision** course at Türk-Alman Ü
 
 ## 👥 Project Team (Group 9)
 
-| Name | Student ID | Email | Role / Contribution |
-| :--- | :--- | :--- | :--- |
+| Name | Student ID | Email | 
+| :--- | :--- | :--- |
 | **Emre Berkay Güntekin** | 250503069 | e250503069@stud.tau.edu.tr
 | **Kerem Özdemir** | 220503048 | e220503048@stud.tau.edu.tr 
 | **Mustafa Kaya** | 200503020 | e200503020@stud.tau.edu.tr 
