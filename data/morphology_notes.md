@@ -18,11 +18,11 @@ Mathematical morphology provides an algebraic framework for extracting image com
 
 **Fundamental Set Transformations**
 
-*Reflection ($\hat{B}$):* The reflection of a structuring element $B$ is defined as:
+Reflection ($\hat{B}$): The reflection of a structuring element $B$ is defined as:
 $$\hat{B} = \{-w \mid w \in B\}$$
 In 2D coordinates $(x, y)$ , reflection maps to $(-x, -y)$ .
 
-*Translation ($(B)_z$):* The translation of $B$ by a spatial displacement vector $z = (z_1, z_2)$  is defined as:
+Translation ($(B)_z$):  The translation of $B$ by a spatial displacement vector $z = (z_1, z_2)$  is defined as:
 $$(B)_z = \{c \mid c = b + z, \text{ for } b \in B\}$$
 
 **2. Primitive Morphological Operations**
